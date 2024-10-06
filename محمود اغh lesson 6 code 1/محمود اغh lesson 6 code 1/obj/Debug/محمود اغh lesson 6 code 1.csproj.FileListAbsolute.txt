@@ -1,0 +1,9 @@
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\bin\Debug\محمود اغh lesson 6 code 1.exe.config
+C:\Users\AFAQ\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\bin\Debug\محمود اغh lesson 6 code 1.exe
+C:\Users\AFAQ\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\bin\Debug\محمود اغh lesson 6 code 1.pdb
+C:\Users\AFAQ\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\obj\Debug\محمود اغh lesson 6 code 1.csprojResolveAssemblyReference.cache
+C:\Users\AFAQ\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\obj\Debug\محمود_اغh_lesson_6_code_1.Form1.resources
+C:\Users\AFAQ\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\obj\Debug\محمود_اغh_lesson_6_code_1.Properties.Resources.resources
+C:\Users\AFAQ\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\obj\Debug\محمود اغh lesson 6 code 1.csproj.GenerateResource.Cache
+C:\Users\AFAQ\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\obj\Debug\محمود اغh lesson 6 code 1.exe
+C:\Users\AFAQ\documents\visual studio 2012\Projects\محمود اغh lesson 6 code 1\محمود اغh lesson 6 code 1\obj\Debug\محمود اغh lesson 6 code 1.pdb
